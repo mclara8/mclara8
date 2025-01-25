@@ -1,44 +1,35 @@
-<h1>Olá, eu sou a Maria Clara! 👋</h1>
+<h1 align="left">Olá 👋</h1>
 
-<h2>🚀 Sobre mim</h2>
-<p>Eu tenho 21 anos e sou estudante de Sistemas de Informação.</p>
+###
 
-<h2>🛠 Habilidades</h2>
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  </a>
-</p>
+<p align="left">Meu nome é Maria Clara, sou estudante de Sistemas de Informação e uma entusiasta da tecnologia e dos esportes!</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclara8&layout=compact&theme=radical" alt="Top Langs Badge"/>
-</p>
+###
 
-<h2>🔗 Links</h2>
-<p>
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox">
-    <img src="https://img.shields.io/badge/gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mariaclaradev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</p>
+<h2 align="left">Sobre mim</h2>
 
+###
+
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou estudando Java e explorando Spring framework para seguir carreira em desenvolvimento backend<br>🎯🎲</p>
+
+###
+
+<h2 align="left">Tecnologias que utilizo:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
