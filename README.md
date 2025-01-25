@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou estudando Java e explorando Spring framework para seguir carreira em desenvolvimento backend<br>🎯🎲</p>
+<p align="left">✨ Criando bugs desde 2024<br> 📚 Atualmente estou estudando Java e explorando Spring framework<br> 🎯Objetivos: Aprofundar os meus conhecimentos e seguir carreira em desenvolvimento backend<br> 🎲Fato divertido: Gosto de jogos de tabuleiro e de jogar futebol no meu tempo livre</p>
+
 
 ###
 
