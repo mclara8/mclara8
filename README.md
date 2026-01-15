@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Me chamo Maria Clara, tenho 22 anos e atualmente estou cursando o Sistemas de Informação<br><br>- 📚 Atualmente estou aprendendo Python <br>- ⚡ No meu tempo livre adoro ler e atividades ao ar livre</p>
+<p align="left">Me chamo Maria Clara, tenho 22 anos e atualmente estou cursando Sistemas de Informação<br><br>- 📚 Atualmente estou aprendendo Python <br>- ⚡ No meu tempo livre adoro ler e atividades ao ar livre</p>
 
 ###
 
