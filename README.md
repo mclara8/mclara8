@@ -1,24 +1,18 @@
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<h1 align="center">Olá, seja bem-vindo (a) 👋</h1>
 
 ###
 
-<h1 align="center">Hi! Welcome 👋</h1>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">Me chamo Maria Clara, tenho 22 anos e atualmente estou cursando o Sistemas de Informação<br><br>- 📚 Atualmente estou aprendendo Python <br>- ⚡ No meu tempo livre adoro ler e atividades ao ar livre</p>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
 
@@ -43,12 +37,5 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
