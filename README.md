@@ -1,7 +1,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Olá, seja bem-vindo(a)👋</h1>
+<h2 data-importer="text" align="center">Olá, seja bem-vindo(a)👋</h2>
 
 ###
 
