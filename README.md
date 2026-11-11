@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu me chamo Maria Clara, tenho 22 anos e atualmente estou no 6º período do curso de Sistemas de Informação.<br><br>- 📚 Atualmente estou estudando Python e SQL.<br>- ⚡Com foco na área de Análise de Dados.</p>
+<p data-importer="text" align="left">Eu me chamo Maria Clara, tenho 23 anos e atualmente estou no 6º período do curso de Sistemas de Informação.<br><br>- 📚 Atualmente estou estudando Python e SQL.<br>- ⚡Com foco na área de Análise de Dados.</p>
 
 ###
 
